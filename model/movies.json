@@ -1,0 +1,173 @@
+[
+  {
+      "id": "c58f6db9-1749-4c99-b49e-d93e4eb9b6d6",
+      "titulo": "El Padrino",
+      "director": "Francis Ford Coppola",
+      "año": 1972,
+      "generos": ["Crimen", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "calificacion": 9.2
+  },
+  {
+      "id": "c399dcb3-5e01-4b72-b66c-f36f6684ea2f",
+      "titulo": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "año": 1994,
+      "generos": ["Crimen", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "calificacion": 8.9
+  },
+  {
+      "id": "9b6ec44d-409c-4ca4-83b2-e61fcd049dcb",
+      "titulo": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "año": 1994,
+      "generos": ["Drama", "Romance"],
+      "cartelera": "https://www.themoviedb.org/t/p/w1280/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "calificacion": 8.8
+  },
+  {
+      "id": "9e5d6804-eb63-4bb7-9d44-7da5b62ecee7",
+      "titulo": "Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "año": 1999,
+      "generos": ["Ciencia ficción", "Acción"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "calificacion": 8.7
+  },
+  {
+      "id": "bbd9f1aa-b1e7-487c-8fc9-f7d6f06f5689",
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "director": "Peter Jackson",
+      "año": 2001,
+      "generos": ["Aventura", "Fantasía"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "calificacion": 8.8
+  },
+  {
+      "id": "0e1c94b2-2c61-450a-9e4d-6d7e5e2c1595",
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "año": 2010,
+      "generos": ["Ciencia ficción", "Acción"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "calificacion": 8.8
+  },
+  {
+      "id": "c14957d6-862c-4e0b-94fc-4cc4225d5a08",
+      "titulo": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "año": 1994,
+      "generos": ["Drama", "Crimen"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "calificacion": 9.3
+  },
+  {
+      "id": "c4f0f387-aa1a-4f1c-8c2e-0f6d09ca0840",
+      "titulo": "Fight Club",
+      "director": "David Fincher",
+      "año": 1999,
+      "generos": ["Drama", "Crimen"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "calificacion": 8.8
+  },
+  {
+      "id": "ca3d89de-119e-4ae2-8f88-4524b4b3bb4d",
+      "titulo": "The Godfather: Part II",
+      "director": "Francis Ford Coppola",
+      "año": 1974,
+      "generos": ["Crimen", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "calificacion": 9.0
+  },
+  {
+      "id": "9c93a7e3-77aa-43a0-9c3b-1cb6be27f7ed",
+      "titulo": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "año": 2008,
+      "generos": ["Acción", "Crimen"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RX1Hab1X5ENncYlzmQExfR4620.jpg",
+      "calificacion": 9.0
+  },
+  {
+      "id": "16fcfb34-b1b9-4c4e-9ea5-1f1d2a5adde9",
+      "titulo": "Schindler's List",
+      "director": "Steven Spielberg",
+      "año": 1993,
+      "generos": ["Biografía", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "calificacion": 8.9
+  },
+  {
+      "id": "6d3b9c2a-2f96-4375-8b9f-0be6f74b773b",
+      "titulo": "The Lord of the Rings: The Two Towers",
+      "director": "Peter Jackson",
+      "año": 2002,
+      "generos": ["Aventura", "Fantasía"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "calificacion": 8.7
+  },
+  {
+      "id": "2a12f7c2-9b07-41a7-9987-3ed48d3df3d1",
+      "titulo": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "año": 1991,
+      "generos": ["Crimen", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "calificacion": 8.6
+  },
+  {
+      "id": "3d01a61c-9d1b-4f27-9411-b2d3b4be5df3",
+      "titulo": "Gladiator",
+      "director": "Ridley Scott",
+      "año": 2000,
+      "generos": ["Acción", "Aventura"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "calificacion": 8.5
+  },
+  {
+      "id": "1e3db188-58f5-4a8c-bf45-826d153b96e5",
+      "titulo": "Seven",
+      "director": "David Fincher",
+      "año": 1995,
+      "generos": ["Drama", "Crimen"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+      "calificacion": 8.6
+  },
+  {
+      "id": "98be7ae3-3ad6-4aa0-8455-4e99ec85541f",
+      "titulo": "The Green Mile",
+      "director": "Frank Darabont",
+      "año": 1999,
+      "generos": ["Drama", "Fantasía"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "calificacion": 8.6
+  },
+  {
+      "id": "3835a09f-27f5-49bf-b14c-99315f1cf696",
+      "titulo": "Goodfellas",
+      "director": "Martin Scorsese",
+      "año": 1990,
+      "generos": ["Crimen", "Drama"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+      "calificacion": 8.7
+  },
+  {
+      "id": "55f05770-5b5c-41c0-a7ca-17bb61b2dbf6",
+      "titulo": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "año": 2003,
+      "generos": ["Aventura", "Fantasía"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "calificacion": 8.9
+  },
+  {
+      "id": "c7b9a2e7-4a36-48dd-8d2a-394ae1f8c8ad",
+      "titulo": "The Shining",
+      "director": "Stanley Kubrick",
+      "año": 1980,
+      "generos": ["Drama", "Terror"],
+      "cartelera": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upBsuweJjBftrkJGqVf8PHCdH0l.jpg",
+      "calificacion": 8.4
+  }
+]
