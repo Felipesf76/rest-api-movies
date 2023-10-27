@@ -4,7 +4,7 @@ const moviesJSON = require('./model/movies.json')
 const cors = require('cors')
 const { validateMovie, validatePartialMovie } = require('./schema/movies.js')
 
-const PORT = process.env.PORT ?? 1234
+const PORT = process.env.PORT ?? 8080
 
 const app = express()
 
